@@ -1,0 +1,77 @@
+[
+    {
+        "name": "비 1",
+        "bg": "assets/img/bg_rain.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "비 2",
+        "bg": "assets/img/bg_rain.png",
+        "audio": "assets/sound/song_02.mp3"
+    },
+    {
+        "name": "비 3",
+        "bg": "assets/img/bg_rain.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "바람 1",
+        "bg": "assets/img/bg_wind.png",
+        "audio": "assets/sound/song_02.mp3"
+    },
+    {
+        "name": "바람 2",
+        "bg": "assets/img/bg_wind.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "바람 3",
+        "bg": "assets/img/bg_wind.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "물 1",
+        "bg": "assets/img/bg_water.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "물 2",
+        "bg": "assets/img/bg_water.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "물 3",
+        "bg": "assets/img/bg_water.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "불 1",
+        "bg": "assets/img/bg_fire.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "불 2",
+        "bg": "assets/img/bg_fire.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "불 3",
+        "bg": "assets/img/bg_fire.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "백색소음 1",
+        "bg": "assets/img/bg_white.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "백색소음 2",
+        "bg": "assets/img/bg_white.png",
+        "audio": "assets/sound/song_01.mp3"
+    },
+    {
+        "name": "백색소음 3",
+        "bg": "assets/img/bg_white.png",
+        "audio": "assets/sound/song_01.mp3"
+    }
+]
